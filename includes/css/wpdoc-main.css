@@ -1,0 +1,21 @@
+.wp-documenter-notice {
+	color: #f00;
+}
+
+.wp-documenter-panel-no-labels .form-table th {
+	display: none;
+}
+
+.wp-documenter-panel-no-labels .form-table label {
+	display: inline-block;
+	font-weight: 600;
+	line-height: 1.3;
+	padding: 20px 10px 20px 0;
+	text-align: left;
+	vertical-align: top;
+	width: 200px;
+}
+
+.wp-documenter-panel-no-labels .form-table textarea {
+	margin: 15px 0;
+}
